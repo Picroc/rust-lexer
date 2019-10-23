@@ -2,5 +2,5 @@
 
 ## Lexer program for the Rust language
 
-Compiler Construction
+Compiler Construction,
 Innopolis University
